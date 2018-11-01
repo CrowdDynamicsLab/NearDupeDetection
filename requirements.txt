@@ -1,0 +1,4 @@
+pillow==2.6.1
+imagehash==0.3
+scipy
+numpy
